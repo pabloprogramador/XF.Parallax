@@ -1,6 +1,8 @@
 # XF.Parallax
 Xamarin Forms 4.2 CarouselView + Parallax
 
+![parallax](https://github.com/pabloprogramador/XF.Parallax/blob/master/parallax.gif)
+
 SEM PLUGINS
 POUCOS ARQUIVOS
 POUCAS LINHAS
@@ -10,7 +12,7 @@ SUPER SIMPLES
 # USANDO SOMENTE O NOVO E INCRÍVEL CAROUSELVIEW OFICIAL DO XAMARIN.FORMS 4.2
 CHEGA MAIS NO CTRL C + CTRL V E FAÇA SEU PROJETO FICAR MAIS "INTERESSANTE"
 
-==================================================================================================
+=====================================================
 NO PLUGINS
 FEW FILES
 Few Lines
