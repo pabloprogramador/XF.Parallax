@@ -1,5 +1,6 @@
 # XF.Parallax
 Xamarin Forms 4.2 CarouselView + Parallax
+<img src="https://github.com/pabloprogramador/XF.Parallax/blob/master/parallax.gif" height="400">
 
 SEM PLUGINS
 POUCOS ARQUIVOS
